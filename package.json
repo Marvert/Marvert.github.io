@@ -1,0 +1,24 @@
+{
+  "name": "hiit2",
+  "version": "1.0.0",
+  "description": "Pagina del Gimnacio Hiit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Marvert/Hiit2.git"
+  },
+  "keywords": [
+    "Pagina",
+    "de",
+    "Hiit"
+  ],
+  "author": "Marvert",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Marvert/Hiit2/issues"
+  },
+  "homepage": "https://github.com/Marvert/Hiit2#readme"
+}
